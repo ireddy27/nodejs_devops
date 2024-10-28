@@ -1,1 +1,1 @@
-Devops lab 11
+Devops lab 11 exercise
